@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    width: 100%;
+    padding-top: 40px;
+}
+.navbar-inverse {
+  background-color: coral;
+  border-color: rosybrown;
+}
+
+.navbar{
+    background-color: aliceblue
+}
+/*
+.navbar-inverse li a:hover {
+    color: aqua;
+}s*/
